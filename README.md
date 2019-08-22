@@ -1,2 +1,2 @@
 # JS-Assignments
-JS Assignments 1 - 16
+JS Assignments 11 - 16
