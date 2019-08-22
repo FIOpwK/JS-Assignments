@@ -1,0 +1,30 @@
+// function exerciseOne(){
+  // Exercise One: In this exercise you are given an object called 'mathHelpers'
+  // Within mathHelpers, create a method called 'double'
+  // This method should take one parameter, a number, 
+  // and it should return that number multiplied by two.
+//  let mathHelpers = {
+    // Create double method in here.
+//    double: function(n) {
+//      return n * 2;
+//    }
+      
+//  };
+//  return mathHelpers;
+//}
+
+//function exerciseTwo(userObj){
+// Exercise Two: You will be given an object called 'userObj'
+// userObject will already have a key on it called 'name'
+// Add a method to userObj, called 'greeting'.
+// Using the keyword 'this', the greeting method should return the following string:
+// 'Hi, my name is ' and the users name.
+// eg: If userObj has a name: 'Dan', greeting should return: Hi, my name is Dan'
+// NOTE: DO NOT create a new object.
+// NOTE: DO NOT create a key called name the key is already on the object.
+// userObj.greeting = function(){return 'Hi, my name is ' + this.name};
+
+
+  // Please write all of your code on the lines above.
+  // return userObj;
+//}
